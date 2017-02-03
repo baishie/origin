@@ -1,0 +1,5 @@
+void display(void);
+void 2binary(int);
+int toBinary(int x);
+int a     =      16;
+double d1, d2 = 5, d3 = 19;

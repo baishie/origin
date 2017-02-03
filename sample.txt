@@ -1,0 +1,24 @@
+hello; hello = hello + 5;
+int a;
+char char;
+float num;
+int a     =      16;    a = 4 * 8;
+double d1, d2 = 5, d3 = 19;     d1   =   d2 +  d3;
+int x, char ret;
+char a = 'R';
+int x = 'y';
+char a = 97 + 'a';
+void hello;
+void display(void);
+void 2binary(int);
+int toBinary(int x);
+int function1(int,int,int*);
+int function2(int,int num,int*);
+float function_two(char*)
+float float(void);
+int while(int);
+int func(int[]);
+int func_three(int[10]);
+int func_three(int[][]);
+int func_three(int[10][]);
+int func_three(int[][10]);
